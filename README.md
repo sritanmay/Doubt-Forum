@@ -5,3 +5,5 @@ for Posting their Doubts, Searching Course Books for particular
 subjects and Viewing Time Table. Technologies involved were HTML, CSS, Basic Bootstrap, Php, MySQL.  
 
 http://www.manitstudentportal.rf.gd
+
+![Screenshot](Screenshots/ss1.jpg)
